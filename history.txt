@@ -1,0 +1,10 @@
+   0 nano 1.sh
+   1 chmod u+x 1.sh 
+   2 ./1.sh 
+   3 ls -la /home
+   4 ls -la /home/user
+   5 ls -la /opt/neW
+   6 ls -la /opt/neW/lamstudent
+   7 cat /opt/neW/lamstudent/rAndom.txt 
+   8 history
+   9 history > history.txt
